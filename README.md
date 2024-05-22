@@ -1,6 +1,6 @@
 # Desafio 1
 
-Contador de Cliques
+Aplicação de Contador de Cliques
 
 ## Objetivo
 
